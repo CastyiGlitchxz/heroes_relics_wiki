@@ -1,5 +1,5 @@
 import { app_navigation } from "./ui-kit/navigation.js";
-import { app_scope, button } from "./ui-kit/airis_kit.js";
+import { app_scope, button, render_html } from "./ui-kit/airis_kit.js";
 import { home } from "./routes/home.js";
 import { wiki } from "./routes/wiki.js";
 import { credits } from "./routes/credits.js";

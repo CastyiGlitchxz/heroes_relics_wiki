@@ -33,5 +33,5 @@ export const app_navigation = {
                 
             tab_switcher.appendChild(button);
         }
-    }
+    },
 }

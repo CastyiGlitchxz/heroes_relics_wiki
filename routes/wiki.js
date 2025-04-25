@@ -15,7 +15,7 @@ render_html.html_defualt(`
             </div>
 
             <div class="case_description">
-                <p>The Sword of the Creator is a weapon wieled by Byleth. The Sword of the Creator can be used as a whip as it can extend itself. This wepaon is made out of the boens of a goddess.</p>
+                <p>The Sword of the Creator is a weapon wieled by Byleth. The Sword of the Creator can be used as a whip as it can extend itself. This wepaon is made out of the bones of a goddess.</p>
             </div>
         </div>
 
@@ -26,7 +26,7 @@ render_html.html_defualt(`
             </div>
 
             <div class="case_description">
-                <p>Areadbhar is a weapon wieled by Dimitri. Dimitri used Areadbhar to protect the kingdom of Faergus, his very own kingdom. Areadbhar can fire electric at it's enemies. This wepaon is made out of the boens of a goddess.</p>
+                <p>Areadbhar is a weapon wieled by Dimitri. Dimitri used Areadbhar to protect the kingdom of Faergus, his very own kingdom. Areadbhar can fire electric at it's enemies. This wepaon is made out of the bones of a goddess.</p>
             </div>
         </div>
 
@@ -37,7 +37,7 @@ render_html.html_defualt(`
             </div>
 
             <div class="case_description">
-                <p>Aymr is a weapon wieled by Edelgard. This is the weapon Edelgard used to fight against Rhea and the central church. This wepaon can envelope itself in fire. This wepaon is made out of the boens of a goddess.</p>
+                <p>Aymr is a weapon wieled by Edelgard. This is the weapon Edelgard used to fight against Rhea and the central church. This wepaon can envelope itself in fire. This wepaon is made out of the bones of a goddess.</p>
             </div>
         </div>
 
@@ -48,7 +48,7 @@ render_html.html_defualt(`
             </div>
 
             <div class="case_description">
-                <p>Failnaught is a weapon wieled by Claude. Claude can use Failnaught can fire a barrage of wind arrows at his oppenents. This wepaon is made out of the boens of a goddess.</p>
+                <p>Failnaught is a weapon wieled by Claude. Claude can use Failnaught can fire a barrage of wind arrows at his oppenents. This wepaon is made out of the bones of a goddess.</p>
             </div>
         </div>
     </div>
