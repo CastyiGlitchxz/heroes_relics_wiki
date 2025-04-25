@@ -7,7 +7,16 @@ render_html.html_defualt(`
             <h1 class="welcome">Welcome to the Fire Emblem heroes relics wiki</h1>
             <p style="color: red; padding: 0 20px">This is a short wiki. It just explains who wields which relic and a bit about what that relic does, nothing too in depth.</p>
 
-            <h2 style="padding: 40px 20px; color: #3366FF;">Click "Relics" to view the heroes relics or click "Credits" to view the cited sources.</h2>
+            <h2 style="padding: 40px 20px; color: #3366FF;">Click "Relics" to view the heroes relics.</h2>
+
+            <div class="credits_button">
+                <a href="/credits.html">Citations</a>
+            </div>
+
+            <div class="login_prompt">
+                <span>Want to login?</span>
+                <button onclick="window.location.href = '/login.html'">Login</button>
+            </div>
         </div>
     </div>
     `

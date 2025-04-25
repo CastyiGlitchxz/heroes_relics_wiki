@@ -157,3 +157,74 @@ li:hover {
     border-radius: 12px;
     border: 1px solid gray;
 }
+
+main {
+    width: 100vw;
+    height: 100vh;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: 100%;
+    grid-template-rows: 10rem 20rem 120px;
+    display: grid;
+    background: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/01/fe-heroes-relics-feature.jpg);
+    background-size: cover;
+}
+
+.login_input {
+    height: 50px;
+    width: 20rem;
+    text-indent: 12px;
+    border-radius: 12px;
+    border: 0;
+    outline: none;
+}
+
+.login_button {
+    height: 50px;
+    width: 23rem;
+}
+
+.login_inputs_container {
+    width: 50%;
+    height: 90%;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+.login_prompt {
+    display: grid;
+    color: white;
+    border-radius: 9px;
+    border: 1px solid red;
+    width: 15rem;
+    height: 6rem;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.login_prompt button {
+    color: white;
+    background: transparent;
+    border-radius: 7px;
+    height: 30px;
+    border: 1px solid red;
+}
+
+.credits_button a {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    z-index: 9;
+    color: white;
+}
+
+.credits_button a:visited {
+    color: red;
+}
