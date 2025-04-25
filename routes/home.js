@@ -10,12 +10,12 @@ render_html.html_defualt(`
             <h2 style="padding: 40px 20px; color: #3366FF;">Click "Relics" to view the heroes relics.</h2>
 
             <div class="credits_button">
-                <a href="/credits.html">Citations</a>
+                <a href="/routes/credits.html">Citations</a>
             </div>
 
             <div class="login_prompt">
                 <span>Want to login?</span>
-                <button onclick="window.location.href = '/login.html'">Login</button>
+                <button onclick="window.location.href = '/routes/login.html'">Login</button>
             </div>
         </div>
     </div>
